@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw_ring1.ogg.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\raw\\ring1.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw_pull.ogg.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\raw\\pull.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw_win.ogg.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\raw\\win.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jackpotgirl.png.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\drawable\\jackpotgirl.png"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw_ring3.ogg.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\raw\\ring3.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\drawable_potgold.png.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\drawable\\potgold.png"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_slot_4pics.png.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\drawable-nodpi\\slot_4pics.png"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw_boo.ogg.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\raw\\boo.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\raw_ring2.ogg.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\raw\\ring2.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_slot_pull.png.flat",
+        "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\drawable-nodpi\\slot_pull.png"
+    }
+]

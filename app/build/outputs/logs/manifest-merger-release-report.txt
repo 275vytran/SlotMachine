@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:3:7-39
+		INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:7:5-17:19
+	android:label
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:7:53-85
+	android:icon
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:7:18-52
+activity#com.example.slotmachine.main_activity
+ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:8:9-15:20
+	android:screenOrientation
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:10:19-55
+	android:label
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:9:19-51
+	android:name
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:8:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vy\Desktop\Android Project\slotmachine\app\src\main\AndroidManifest.xml

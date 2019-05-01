@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Vy\\Desktop\\Android Project\\slotmachine\\slotmachine\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "117,55",
+                        "endColumns": "48,61",
+                        "endOffsets": "161,112"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "95,144",
+                        "endColumns": "48,61",
+                        "endOffsets": "139,201"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <string name="app_name">slotmachine</string>
+    <string name="hello">Hello World, main_activity!</string>
+</resources>
